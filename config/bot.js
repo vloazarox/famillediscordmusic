@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODg5NTI5Mzc5Mzg0ODg1Mjk5.YUikyg.8tzeg32Z5TIQtAH_KngI5y6zH2g',
+        token: 'ODg5NTI5Mzc5Mzg0ODg1Mjk5.YUikyg.DTcwqdT0esYSCyRJGrBKAF-HYHo',
         prefix: '!p',
         activity: 'Merci de m avoir cree alan',
     },
